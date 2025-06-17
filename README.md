@@ -1,4 +1,4 @@
-![alt text](https://github.com/robzun/robzun/blob/1442c3a5db67b0288a291e66e2e9b5ca6d0e0da3/honest%20work%20meme.jpg "honest work meme")
+![alt text](https://github.com/robzun/robzun/blob/1442c3a5db67b0288a291e66e2e9b5ca6d0e0da3/honest%20work%20meme.jpg)
 <!--
 **robzun/robzun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
